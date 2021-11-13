@@ -9,5 +9,4 @@ Enabled system to respond to  following instructions:
 「hazard with load」、「branch hazard」。
 
 ## appendix
-
-
+![image](https://github.com/liam0504/Computer_Organization_Pipeline/blob/main/image/1636818552829.jpg)
